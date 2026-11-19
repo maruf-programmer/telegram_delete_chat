@@ -1,0 +1,14 @@
+# Telegram session va maxfiy fayllar
+*.session
+*.session-journal
+.env
+
+# Python kesh fayllari
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual muhit
+venv/
+env/
+.venv/
